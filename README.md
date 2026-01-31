@@ -155,5 +155,3 @@ const scale = 2 / maxDim // Change the 2 to make bigger/smaller
 - Animation playback
 - VR support
 
-
-# 3d-viewer-app-Logo
